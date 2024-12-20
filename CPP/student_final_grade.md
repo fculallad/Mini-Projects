@@ -31,7 +31,7 @@ final_grade(20, 2) # 0
 
 Use Comparison and Logical Operators.
 
-## SOLUTION : 
+## Solution 
 
 ```
 
