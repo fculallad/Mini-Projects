@@ -31,7 +31,9 @@ final_grade(20, 2) # 0
 
 Use Comparison and Logical Operators.
 
-#Solution
+## SOLUTION : 
+
+```
 
 int final_grade(int examgrade, int completedTasks){
 
@@ -44,6 +46,8 @@ int final_grade(int examgrade, int completedTasks){
     }
     return 0;
 }
+
+```
 
 
 
