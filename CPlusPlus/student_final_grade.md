@@ -31,6 +31,16 @@ final_grade(20, 2) # 0
 
 Use Comparison and Logical Operators.
 
+## Template
+
+```cpp
+
+int final_grade(int exam, int projects){
+   return
+}
+
+```
+
 ## Solution 
 
 <details> 
