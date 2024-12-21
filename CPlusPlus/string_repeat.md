@@ -7,6 +7,18 @@ Write a function that accepts an integer n and a string s as parameters, and ret
 5, "Hello" -> "HelloHelloHelloHelloHello"
 ```
 
+## Template
+
+```cpp
+
+#include <string>
+
+std::string repeat_str(size_t repeat, const std::string& str) {
+  return "";
+}
+
+```
+
 
 ## Solution
 
