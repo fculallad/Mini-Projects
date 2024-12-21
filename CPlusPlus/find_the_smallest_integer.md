@@ -10,6 +10,9 @@ You can assume, for the purpose of this kata, that the supplied array will not b
 
 ## Solution
 
+<details>
+	<summary> Click Here </summary>
+
 ```cpp
 #include <vector>
 #include <iostream>
@@ -26,3 +29,5 @@ int findSmallest(vector <int> list){
 }
 
 ```
+
+</details>
