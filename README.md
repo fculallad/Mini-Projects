@@ -11,5 +11,6 @@
 - [String Repeat](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/string_repeat.md)
 - [Remove First & Last Character](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/remove_first_last_character.md)
 - [Grasshopper Summation](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/grasshopper_summation.md)
+- [Smallest Integer in The Array](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/smallest_int_in_array.md)
 
   
