@@ -4,6 +4,7 @@
 
 - [Student's Final Grade](https://github.com/fculallad/CodeWarsSolutions/blob/main/CPlusPlus/student_final_grade.md)
 - [Is String Uppercase?](https://github.com/fculallad/CodeWarsSolutions/blob/main/CPlusPlus/is_string_uppercase.md)
-- [Find the Smallest Integer](https://github.com/fculallad/CodeWarsSolutions/blob/main/CPlusPlus/find_the_smallest_integer.md)
-
-
+- [Boolean to String](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/boolean_to_string.md)
+- [Reverse a String](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/reverse_string.md)
+- [Square & Sum an Vector](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/square_sum.md)
+- [Sum of Positive](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/sum_of_positive.md)
