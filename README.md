@@ -8,3 +8,5 @@
 - [Reverse a String](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/reverse_string.md)
 - [Square & Sum an Vector](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/square_sum.md)
 - [Sum of Positive](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/sum_of_positive.md)
+- [String Repeat](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/string_repeat.md)
+- [Remove First & Last Character](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/remove_first_last_character.md)  
