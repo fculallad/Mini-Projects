@@ -38,19 +38,20 @@ Use Comparison and Logical Operators.
 
 ```cpp
 
-int finalGrade(int examgrade, int completedTasks){
+int final_grade(int examgrade, int completedTasks){
     
-    if(examgrade >= 90 || completedTasks >= 10){
+    if(examgrade > 90 || completedTasks > 10){
         return 100;
-    }else if(examgrade >= 75 || completedTasks >= 5){
+    }else if(examgrade > 75 && completedTasks >= 5){
         return 90;
-    }else if(examgrade >= 50 && completedTasks >= 2){
+    }else if(examgrade > 50 && completedTasks >= 2){
         return 75;
     }else{
         return 0;
     }
     return 0;
 }
+
 
 ```
 
