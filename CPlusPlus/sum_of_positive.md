@@ -1,6 +1,19 @@
 # Problem 
 You get an array of numbers, return the sum of all of the positives ones.
 
+## Template
+
+```cpp
+
+#include <vector>
+
+int positive_sum (const std::vector<int> arr){
+  // Your code here
+  return -1;
+}
+
+```
+
 # Solution
 
 <details> 
