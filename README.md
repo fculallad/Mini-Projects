@@ -21,5 +21,6 @@
 - [Count of Positive & Sum of Negative](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/count_of_pos_sum_of_neg.md)
 - [Fake Binary](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/fake_binary.md)
 - [Keep Hydrated](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/keep_hydrated.md)
+- [Reverse Words](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/Code_Wars/reverse_words.md)
 
   

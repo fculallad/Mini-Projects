@@ -68,5 +68,17 @@ string reverse_words(string &str){
 
 ```
 
+```
+This solution is efficient with both time (O(n) where n is string length)
+and memory(it only uses extra space for the output string and one word at a time).
+It also handles all edge cases naturally:
+
+- Empty strings (loop never runs, returns empty string)
+- Multiple spaces (each space is added to output immediately)
+- Leading/trailing spaces (treated just like any other spaces)
+
+```
+
 </details>
+
 
