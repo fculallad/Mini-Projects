@@ -1,7 +1,12 @@
-# C++
+ ![repo_art2](https://github.com/user-attachments/assets/64ae3359-b405-47a2-9111-e4f0f4ca90d4)
 
-### Code Wars
 
+## Personal
+-  [Vector Average](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/Personal%20Projects/vector_sum_avg.md)
+
+## Code Wars
+
+### 8kyu - Easy
 - [Student's Final Grade](https://github.com/fculallad/CodeWarsSolutions/blob/main/CPlusPlus/student_final_grade.md)
 - [Is String Uppercase?](https://github.com/fculallad/CodeWarsSolutions/blob/main/CPlusPlus/is_string_uppercase.md)
 - [Boolean to String](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/boolean_to_string.md)
