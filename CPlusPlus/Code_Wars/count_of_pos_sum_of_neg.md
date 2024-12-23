@@ -16,15 +16,12 @@ For input :
 
 ```
 
-##Solution 
-
-
 <details>
 	<summary> Click Here </summary>
 
-```cpp
+ ## Solution 1
 
-## Solution 1
+```cpp
 
 #include <vector>
 #include <string>

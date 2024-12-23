@@ -12,5 +12,9 @@
 - [Remove First & Last Character](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/remove_first_last_character.md)
 - [Grasshopper Summation](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/grasshopper_summation.md)
 - [Smallest Integer in The Array](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/smallest_int_in_array.md)
+- [Calculate BMI](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/calculate_bmi.md)
+- [Count of Positive & Sum of Negative](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/count_of_pos_sum_of_neg.md)
+- [Fake Binary](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/fake_binary.md)
+- [Keep Hydrated](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/keep_hydrated.md)
 
   
