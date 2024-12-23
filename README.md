@@ -1,6 +1,7 @@
-# C++
+ ![repo_art2](https://github.com/user-attachments/assets/64ae3359-b405-47a2-9111-e4f0f4ca90d4)
 
-## Mini-Personal Projects
+
+## Personal
 -  [Vector Average](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/Personal%20Projects/vector_sum_avg.md)
 
 ## Code Wars
