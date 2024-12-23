@@ -26,6 +26,9 @@ std::string reverse_words(std::string str)
 
 ## Solution
 
+<details>
+	<summary> Click Here </summary>
+
 ```cpp
 
 #include <vector>
