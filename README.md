@@ -3,6 +3,7 @@
 
 ## Personal
 -  [Vector Average](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/Personal%20Projects/vector_sum_avg.md)
+-  [CGPA Calculator](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/Personal%20Projects/cgpa_calculator.md)
 
 ## Code Wars
 
