@@ -23,4 +23,8 @@
 - [Keep Hydrated](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/keep_hydrated.md)
 - [Reverse Words](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/Code_Wars/reverse_words.md)
 
+### 7kyu 
+- [Sum of Two Lowest Positive Integers](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/Code_Wars/sum_of_two_lowest_positive_integers.md)
+
+
   
