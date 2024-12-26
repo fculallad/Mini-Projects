@@ -3,6 +3,7 @@
 
 ## Personal
 -  [Vector Average](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/Personal%20Projects/vector_sum_avg.md)
+-  [CGPA Calculator](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/Personal%20Projects/cgpa_calculator.md)
 
 ## Code Wars
 
@@ -22,5 +23,9 @@
 - [Fake Binary](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/fake_binary.md)
 - [Keep Hydrated](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/keep_hydrated.md)
 - [Reverse Words](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/Code_Wars/reverse_words.md)
+
+### 7kyu 
+- [Sum of Two Lowest Positive Integers](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/Code_Wars/sum_of_two_lowest_positive_integers.md)
+
 
   
