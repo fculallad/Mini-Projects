@@ -26,6 +26,7 @@
 
 ### 7kyu 
 - [Sum of Two Lowest Positive Integers](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/Code_Wars/sum_of_two_lowest_positive_integers.md)
+- [Ex's and Oh's](https://github.com/fculallad/Mini-Projects/blob/main/CPlusPlus/Code_Wars/exes_and_ohs.md)
 
 
   
